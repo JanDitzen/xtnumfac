@@ -1,4 +1,7 @@
 # xtnumfac
+
+![version](https://img.shields.io/github/v/release/janditzen/xtnumfac) ![release](https://img.shields.io/github/release-date/janditzen/xtnumfac) 
+
 Estimating Number of common factors
 
 Joint work with [Simon Reese](https://simonreese.weebly.com/)
