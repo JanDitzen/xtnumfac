@@ -1,0 +1,15 @@
+v 3
+d Jan Ditzen, Heriot-Watt University, j.ditzen@hw.ac.uk, jan.ditzen.net
+p xtcd2 testing for weak cross sectional dependence.
+
+p xtdcce2 estimating heterogeneous coefficient models using common correlated effects in a dynamic panel.
+
+p xtset2 extended routines for xtset and _xt.
+
+p splag Create spatial lags using weights from a dataset.
+
+p mmat2tex Export Mata Matrix to LaTeX Table.
+
+p multishell using shell to run do files across computers efficiently 
+
+d For beta versions of xtdcce2, please use {stata "net from http://www.ditzen.net/Stata/xtdcce2_beta"}

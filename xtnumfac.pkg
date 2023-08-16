@@ -1,0 +1,9 @@
+v 3
+d xtnunmfac Estimating Number of common factors.
+d Jan Ditzen
+d Simon Reese
+d Distribution-Date:  20220719
+f xtnumfac.ado
+f xtnumfac.sthlp
+f example.do
+f KPR2021_hpdata.dta
